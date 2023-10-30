@@ -1,0 +1,12 @@
+POST http://127.0.0.1:5555/books HTTP/1.1
+
+Content-Type: application/json
+{
+    "title": "Data Structure through C",
+    "author": "John Cena",
+    "publishYear":"2002"
+}
+
+
+#####
+GET http://127.0.0.1:5555 HTTP/1.1
