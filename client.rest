@@ -6,9 +6,9 @@ POST http://127.0.0.1:5555/books HTTP/1.1
 Content-Type: application/json
 
 {
-    "title": "Machine learning algorithms",
-    "author": "Mike tyson",
-    "publishYear": "1994"
+    "title": "hellow world ",
+    "author": "Nice people",
+    "publishYear": "1800"
 }
 
 #####################################
